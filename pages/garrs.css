@@ -1,0 +1,108 @@
+.note {
+    background-color: lightgray;
+    border: solid gray;
+    padding: 1em;
+}
+
+.program-host {
+    color: #663333;
+    font-weight: bold;
+}
+
+.program-title {
+    font-weight: bold;
+}
+
+.special {
+    background-color: lightgreen;
+    border: solid green;
+    padding: 1em;
+}
+
+.warning {
+    background-color: lightyellow;
+    border: solid yellow;
+    padding: 1em;
+}
+
+h1 {
+    color: #663333;
+    margin-top: 1em;
+    text-align: center;
+}
+
+ul {
+    padding: 0px;
+}
+
+li {
+    list-style-type: none;
+}
+
+body {
+    font-family: "APHont", "Verdana", sans-serif;
+    line-height: 125%;
+    margin: auto;
+    max-width: 700px;
+    text-align: justify;
+}
+
+article {
+    margin-bottom: 1em;
+}
+
+header {
+    border-bottom: solid #663333;
+}
+
+header .banner {
+    display: block;
+    margin: auto;
+}
+
+nav {
+    border-bottom: solid #663333;
+}
+
+nav ul::before {
+    content: attr(title);
+    font-weight: bold;
+}
+
+nav li {
+    display: inline;
+    margin-left: 1em;
+}
+
+main article ul.program-list li {
+    margin-bottom: 1em;
+}
+
+main article ul .program-title {
+    margin-right: 1em;
+}
+
+main article ul.program-sublist {
+    display: inline;
+    margin-left: 1em;
+}
+
+main article ul.program-sublist li {
+    display: inline;
+}
+
+footer {
+    border-top: solid #663333;
+    line-height: 100%;
+    padding-top: 1em;
+}
+
+footer h1 {
+    font-size: inherit;
+    text-align: left;
+}
+
+footer.contact-info,
+footer.contact-info h1 {
+    text-align: center;
+}
