@@ -1,0 +1,84 @@
+-
+    title: Be Prepared
+    url: be-prepared.php
+    description: >
+        Learn about emergency preparedness and response by experts in the field.
+    host: Julius Suber
+    schedule: the fourth Saturday of each month at 9:03 AM
+-
+    title: Career Corner
+    description: >
+        Job announcements, training sessions, job fairs, and interviews from
+        the Georgia Department of Labor, U.S. Department of Labor, Small
+        Business Administration, and many others
+-
+    title: Disability Rights
+    description: >
+        Learn the who, what, where, when, and how of advocating for your
+        rights from disABILITY LINK, disability advocacy experts. Presented
+        as different programs with specific focuses:
+    programs:
+        -
+            title: Assistive Tech
+        -
+            title: Independent Living
+        -
+            title: Transportation
+        -
+            title: Youth Update
+-
+    title: Eye on Blindness
+    description: >
+        Interviews with people impacted by or supporting those with vision
+        loss
+-
+    title: Fed Five
+    description: >
+        A special miniseries of consumer tips on protecting personal
+        financial assets, provided by the Federal Reserve Bank of Atlanta.
+-
+    title: GaRRS Radio Players
+    description: >
+        Radio plays produced and acted by GaRRS volunteers
+-
+    title: Go Green
+    description: >
+        Discussion of issues impacting our environment
+-
+    title: Listener Spotlight
+    description: >
+        Interviews with GaRRS listeners
+-
+    title: Lullaby Hour
+    description: >
+        Stories for two to six year olds presented by the Junior League of
+        Atlanta
+-
+    title: My Health / My Medicare
+    description: >
+        Information about benefits and rights of recipients of Medicare and
+        Medicaid. Produced in conjunction with the Centers for Medicare and
+        Medicaid Services
+-
+    title: Out and About
+    description: >
+        Audio described tours of interesting places around the world,
+        featuring interviews with subject matter experts
+-
+    title: Special Editions
+    description: >
+        Special broadcasts and programs from our partner agencies
+-
+    title: The Break
+    description: >
+        Produced by an area high school for the enjoyment of high school
+        students
+-
+    title: "VI@GaRRS: Veterans Information at GaRRS"
+    description: >
+        Interviews with medical, health, research, and development experts
+        at the Atlanta VA
+-
+    title: Volunteer Spotlight
+    description: >
+        Interviews with GaRRS volunteer readers
